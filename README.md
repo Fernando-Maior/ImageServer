@@ -3,6 +3,9 @@
 ## SUMMARY
 Provide a script to configure an Image Server to propagate Operating System images to desktop PCs using Linux Mint and PXE.
 
+### DISCLAIMER
+This is not for the first-timer! You need good knowledge of Linux in order to get this working **correctly**!
+
 ### BASED ON...
 The script from Spip, 2023
 https://gist.github.com/spipm/aef2db9b28d085b0c162d0b21afbe0f1
